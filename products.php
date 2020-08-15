@@ -9,7 +9,7 @@
         <div class="d-flex justify-content-between align-items-center">
           <h2>Products</h2>
           <ol>
-            <li><a href="index.html" style="color: #d2ae6d;">Home</a></li>
+            <li><a href="index.php" style="color: #d2ae6d;">Home</a></li>
             <li>Products</li>
           </ol>
         </div>
@@ -18,59 +18,159 @@
     </section><!-- End Breadcrumbs -->
 
     <!-- ======= Services Section ======= -->
-    <section id="services" class="services">
+    <section id="services" class="services" style="background: #f1f1f1;">
       <div class="container">
+        <h4 style="text-align: center; text-decoration: underline;">Business Insurance Classes</h4>
 
         <div class="row">
-          <div class="col-lg-4 col-md-6">
+          <div class="col-md-3 col-md-6 automobile" data-aos="fade-up">
             <div class="icon-box" data-aos="fade-up">
-              <div class="icon"><i class="icofont-computer"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+             <!--  <div class="icon"><i class="icofont-car"></i></div> -->
+              <h3 class="title"><a href="">AUTOMOBILE</a></h3>
+              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate.&nbsp; <span><a href="">Read More</a></span> </p>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          
+          <div class="col-md-3 property" data-aos="fade-up" data-aos-delay="100">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
-              <div class="icon"><i class="icofont-chart-bar-graph"></i></div>
-              <h4 class="title"><a href="">Dolor Sitema</a></h4>
-              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+              <!-- <div class="icon"><i class="icofont-home"></i></div> -->
+              <h3 class="title"><a href="">PROPERTY</a></h3>
+              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat .&nbsp; <span><a href="">Read More</a></span></p>
             </div>
+          
           </div>
-          <div class="col-lg-4 col-md-6">
+
+          <div class="col-md-3 accident" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-              <div class="icon"><i class="icofont-earth"></i></div>
-              <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+              <!-- <div class="icon"><i class="icofont-first-aid"></i></div> -->
+              <h3 class="title"><a href="">GENERAL ACCIDENT</a></h3>
+              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla ullamco resita lukug.&nbsp; <span><a href="">Read More</a></span></p>
             </div>
+           
           </div>
-          <div class="col-lg-4 col-md-6">
+
+          <div class="col-md-3 liability" data-aos="fade-up" data-aos-delay="200">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
-              <div class="icon"><i class="icofont-image"></i></div>
-              <h4 class="title"><a href="">Magni Dolores</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+              <!-- <div class="icon"><i class="icofont-umbrella"></i></div> -->
+              <h3 class="title"><a href="">LIABILITY GROUP</a></h3>
+              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est hujgucre.&nbsp; <span><a href="">Read More</a></span></p>
+            </div>
+           
+          </div>
+          
+
+          <div class="col-md-3 compulsory" data-aos="fade-up">
+            <div class="icon-box" data-aos="fade-up">
+             <!--  <div class="icon"><i class="icofont-car"></i></div> -->
+              <h3 class="title"><a href="">COMPULSORY INSURANCE</a></h3>
+              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint .&nbsp; <span><a href="">Read More</a></span> </p>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
-              <div class="icon"><i class="icofont-settings"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+          
+          <div class="col-md-3 oil" data-aos="fade-up" data-aos-delay="100">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+              <!-- <div class="icon"><i class="icofont-home"></i></div> -->
+              <h3 class="title"><a href="">OIL & GAS</a></h3>
+              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat .&nbsp; <span><a href="">Read More</a></span></p>
             </div>
+          
           </div>
-          <div class="col-lg-4 col-md-6">
-            <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
-              <div class="icon"><i class="icofont-tasks-alt"></i></div>
-              <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
-              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+
+          <div class="col-md-3 marine" data-aos="fade-up" data-aos-delay="200">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+              <!-- <div class="icon"><i class="icofont-first-aid"></i></div> -->
+              <h3 class="title"><a href="">MARINE & AVIATION</a></h3>
+              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla ullamco resita lukug.&nbsp; <span><a href="">Read More</a></span></p>
             </div>
+           
           </div>
+
+          <div class="col-md-3 engineering" data-aos="fade-up" data-aos-delay="200">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+              <!-- <div class="icon"><i class="icofont-umbrella"></i></div> -->
+              <h3 class="title"><a href="">ENGINEERING</a></h3>
+              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est hujgucre.&nbsp; <span><a href="">Read More</a></span></p>
+            </div>
+           
+          </div>
+
+
+          
         </div>
+
 
       </div>
     </section><!-- End Services Section -->
 
+
+    <section id="services" class="services retail">
+      <div class="container">
+        <h4 style="text-align: center; text-decoration: underline;">Retail & Direct Insurance Solutions</h4>
+
+        <div class="row">
+          <div class="col-lg-4 col-md-6">
+            <div class="icon-box" data-aos="fade-up">
+              <div class="icon"><i class="icofont-car"></i></div>
+              <h4 class="title"><a href="">PURPLE MOTOR PLAN</a></h4>
+              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate.&nbsp; <span><a href="">Read More</a></span> </p>
+
+            </div>
+            <hr>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
+              <div class="icon"><i class="icofont-home"></i></div>
+              <h4 class="title"><a href="">ESTATE INSURANCE PLAN</a></h4>
+              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino.&nbsp; <span><a href="">Read More</a></span></p>
+            </div>
+            <hr>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+              <div class="icon"><i class="icofont-boy"></i></div>
+              <h4 class="title"><a href="">CITADEL SHIELD PLAN</a></h4>
+              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&nbsp; <span><a href="">Read More</a></span></p>
+            </div>
+            <hr>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
+              <div class="icon"><i class="icofont-umbrella"></i></div>
+              <h4 class="title"><a href="">SHOP COMPREHENSIVE PLAN</a></h4>
+              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&nbsp; <span><a href="">Read More</a></span></p>
+            </div>
+            <hr>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
+              <div class="icon"><i class="icofont-star"></i></div>
+              <h4 class="title"><a href="">EVENT INSURANCE XCLUSIVE</a></h4>
+              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum dele.&nbsp; <span><a href="">Read More</a></span></p>
+            </div>
+            <hr>
+          </div>
+
+          <div class="col-lg-4 col-md-6">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="400">
+              <div class="icon"><i class="icofont-home"></i></div>
+              <h4 class="title"><a href="">SME COMPREHENSIVE PLAN</a></h4>
+              <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est.&nbsp; <span><a href="">Read More</a></span></p>
+            </div>
+            <hr>
+          </div>
+
+        </div>
+
+
+      </div>
+    </section>
+
     <!-- ======= Features Section ======= -->
-    <section id="features" class="features">
+    <!-- <section id="features" class="features">
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
@@ -134,7 +234,7 @@
         </div>
 
       </div>
-    </section><!-- End Features Section -->
+    </section> --><!-- End Features Section -->
 
   </main><!-- End #main -->
 

@@ -172,7 +172,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
-                <img src="assets/img/team/okla.png" class="img-fluid" alt="">
+                <img src="assets/img/team/ed.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <p class="detail">Mr Adelagun is a versatile Insurer and well-experienced enterprise manager with a wide range of skills and proven track records cutting across international markets. Mr Adelagun joined the Board of Directors of Linkage Assurance as an Executive Director.</p>
                   <!-- <a href=""><i class="icofont-twitter"></i></a>
@@ -192,7 +192,7 @@
           <div class="col-lg-3 col-md-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="200">
               <div class="member-img">
-                <img src="assets/img/team/joyce.png" class="img-fluid" alt="">
+                <img src="assets/img/team/gm.jpg" class="img-fluid" alt="">
                 <div class="social">
                   <p class="detail">She holds a Bachelor of Science in Insurance and Masters in Risk Management from University of Lagos. She is an alumni of the prestigious Lagos Business School, a member of Chartered Insurance Institute of Nigeria (CIIN).</p>
                   <!-- <a href=""><i class="icofont-twitter"></i></a>

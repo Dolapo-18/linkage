@@ -82,7 +82,7 @@
         <ul>
           <li class="active"><a href="index.php"><strong>Home</strong></a></li>
           <!-- <li><a href="about.php"><strong>About</strong></a></li> -->
-          <li class="drop-down"><a href=""><strong>About</strong></a>
+          <li class="drop-down"><a href="about.php"><strong>About</strong></a>
             <ul>
               <li><a href="about.php"><i class="icofont-people" style="color: #000"></i>&nbsp;Who We Are</a></li><hr>
               <li class="drop-down"><a href=""><i class="icofont-team" style="color: #000"></i>&nbsp;Our Team</a>
@@ -96,7 +96,7 @@
 
           </li>
           <!-- <li><a href="products.php"><strong>Products</strong></a></li> -->
-          <li class="drop-down"><a href=""><strong>Products</strong></a>
+          <li class="drop-down"><a href="products.php"><strong>Products</strong></a>
             <ul>
               <li><a href="#"><i class="icofont-auto-mobile" style="color: #000"></i>&nbsp;Automobile</a></li> <hr>
               <!-- <li class="drop-down"><a href="#">Drop Down 2</a>
@@ -115,7 +115,7 @@
               <li><a href="#"><i class="icofont-ship-wheel" style="color: #000"></i>&nbsp;Marine & Aviation</a></li><hr>
               <li><a href="#"><i class="icofont-magnet" style="color: #000"></i>&nbsp;Engineering</a></li><hr>
               <li><a href="#"><i class="icofont-water-drop" style="color: #000"></i>&nbsp;Oil & Gas</a></li><hr>
-              <li><a href="#"><i class="icofont-bag-alt" style="color: #000"></i>&nbsp;Other Products</a></li>
+              <li><a href="products.php"><i class="icofont-bag-alt" style="color: #000"></i>&nbsp;Other Products</a></li>
             </ul>
 
           </li>
