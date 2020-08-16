@@ -103,16 +103,16 @@
     </section><!-- End Services Section -->
 
 
-    <section id="services" class="services retail">
+    <section id="services" class="retail">
       <div class="container">
-        <h4 style="text-align: center; text-decoration: underline;">Retail & Direct Insurance Solutions</h4>
+        <h4 style="text-align: center; text-decoration: underline; margin-bottom: 25px;">Retail & Direct Insurance Solutions</h4>
 
         <div class="row">
           <div class="col-lg-4 col-md-6">
             <div class="icon-box" data-aos="fade-up">
               <div class="icon"><i class="icofont-car"></i></div>
               <h4 class="title"><a href="">PURPLE MOTOR PLAN</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate.&nbsp; <span><a href="">Read More</a></span> </p>
+              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate altigoko.&nbsp; <span><a href="">Read More</a></span> </p>
 
             </div>
             <hr>
@@ -122,7 +122,7 @@
             <div class="icon-box" data-aos="fade-up" data-aos-delay="100">
               <div class="icon"><i class="icofont-home"></i></div>
               <h4 class="title"><a href="">ESTATE INSURANCE PLAN</a></h4>
-              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino.&nbsp; <span><a href="">Read More</a></span></p>
+              <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino quis.&nbsp; <span><a href="">Read More</a></span></p>
             </div>
             <hr>
           </div>
@@ -131,7 +131,7 @@
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="icofont-boy"></i></div>
               <h4 class="title"><a href="">CITADEL SHIELD PLAN</a></h4>
-              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&nbsp; <span><a href="">Read More</a></span></p>
+              <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur tripolo veniam molliote.&nbsp; <span><a href="">Read More</a></span></p>
             </div>
             <hr>
           </div>
@@ -140,7 +140,7 @@
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <div class="icon"><i class="icofont-umbrella"></i></div>
               <h4 class="title"><a href="">SHOP COMPREHENSIVE PLAN</a></h4>
-              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&nbsp; <span><a href="">Read More</a></span></p>
+              <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum repritohn hun.&nbsp; <span><a href="">Read More</a></span></p>
             </div>
             <hr>
           </div>
@@ -149,7 +149,7 @@
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <div class="icon"><i class="icofont-star"></i></div>
               <h4 class="title"><a href="">EVENT INSURANCE XCLUSIVE</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum dele.&nbsp; <span><a href="">Read More</a></span></p>
+              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium pilate voluptatum dele.&nbsp; <span><a href="">Read More</a></span></p>
             </div>
             <hr>
           </div>
