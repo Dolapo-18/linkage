@@ -96,13 +96,21 @@
 
   <main id="main">
 
+    <div class="container">
+      <div class="row sliding">
+        <div class="col-md-12">
+          <marquee width = "80%"><strong style="color: #000;">Agusto & Co. Rating:</strong> A- (Strong Capacity / Stable Financial Outlook)&nbsp; | &nbsp;&nbsp; <strong style="color: #000;">Investment Portfolio:</strong> ₦24Billion as at 31st of March, 2020.  </marquee>
+        </div>
+      </div>
+    </div>
+
     <!-- ======= Cta Section ======= -->
     <section id="cta" class="cta">
       <div class="container">
 
         <div class="row">
           <div class="col-lg-9 text-center text-lg-left">
-            <h3>We've paid over &#8358 1.2 Billion <span style="color: #d2ae6d">Claims</span> this year!</h3>
+            <h3>We've paid over ₦2 Billion <span style="color: #d2ae6d">Claims</span> this year!</h3>
             <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
@@ -441,6 +449,11 @@
           
       </div>
     </section><!-- End Our Clients Section -->
+
+
+
+    
+   
   
 
    

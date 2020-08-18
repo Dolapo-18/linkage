@@ -118,6 +118,13 @@
 	color: #000;
 }
 
+
+.breadcrumbs {
+  padding: 5px 0;
+  background: #2b2320;
+  min-height: 40px;
+}
+
 .bg-slide {
 	color: #fff;
 }
@@ -790,7 +797,7 @@
   text-align: center;
   height: 170px;
   position: relative;
-  opacity: 60% !important;
+  opacity: 65% !important;
   background: #000;
   border: 0px;
 }
@@ -933,11 +940,13 @@
   position: relative;
   background: #0d0d0d;
   border: 0px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.3);
 }
 
 .retail .icon {
   position: absolute;
-  top: -49px;
+  top: -50px;
   left: calc(50% - 36px);
   transition: 0.2s;
   border-radius: 50%;
@@ -950,7 +959,6 @@
   width: 72px;
   height: 72px;
   background: #d2ae6d;
-  color: #000;
 }
 
 .retail .icon-box:hover .icon {
@@ -991,3 +999,91 @@
 }
 
 
+
+
+
+/**** AUTOMOBILE.PHP PAGE *******/
+.automobile h4 {
+	text-align: center; 
+	text-decoration: underline;
+	margin-bottom: 20px;
+}
+
+.automobile .narration p {
+	text-align: justify;
+	font-family: "Roboto", sans-serif;
+	font-size: 14px;
+	color: #000;
+}
+
+.automobile .narration .benefits {
+	font-family: "Roboto", sans-serif;
+	font-size: 14px;
+	color: #000;
+}
+
+.automobile .box {
+	height: 190px;
+	background-color: #fff;
+	box-shadow: 0px 0 15px rgba(0, 0, 0, 0.12);
+	
+}
+
+.automobile .box p {
+	padding: 10px;
+	color: #000;
+	text-align: center;
+	font-family: "Roboto", sans-serif;
+	font-size: 17px;
+}
+
+.automobile .box a {
+}
+
+.side .cta-btn {
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: 0px;
+  display: inline-block;
+  padding: 5px 15px;
+  border-radius: 2px;
+  transition: 0.2s;
+  margin: 20px;
+  border-radius: 0px;
+  border: 2px solid #000;
+  color: #000;
+  background: #d2ae6d;
+ 
+}
+
+
+.side .cta-btn:hover {
+  background: transparent;
+  
+  border: 2px solid #d2ae6d;
+  color: #000;
+}
+
+.side .cta-btn {
+  position: relative;
+  animation-name: shake;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in;
+  cursor: pointer;
+}
+
+.side .cta-btn:hover {
+  animation-name: shakeAnim;
+}
+
+.sliding {
+	font-family: "Roboto", sans-serif;
+	font-size: 14px;
+	/*border: 1px solid #d9d9d9;*/
+	/*border-radius: 5px;*/
+	padding-left: 160px; 
+	padding-top: 5px;
+}

@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Flattern Bootstrap Template - Index</title>
+  <title>Linkage Assurance Plc.</title>
   <meta content="" name="descriptison">
   <meta content="" name="keywords">
 
@@ -48,6 +48,7 @@
         <i class="icofont-envelope"></i><a href="mailto:info@linkageassurance.com">info@linkageassurance.com</a>
         <i class="icofont-phone"></i> 0700LINKAGE
       </div>
+
       <div class="social-links">
         <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
         <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
@@ -82,7 +83,7 @@
         <ul>
           <li class="active"><a href="index.php"><strong>Home</strong></a></li>
           <!-- <li><a href="about.php"><strong>About</strong></a></li> -->
-          <li class="drop-down"><a href="about.php"><strong>About</strong></a>
+          <li class="drop-down"><a href=""><strong>About</strong></a>
             <ul>
               <li><a href="about.php"><i class="icofont-people" style="color: #000"></i>&nbsp;Who We Are</a></li><hr>
               <li class="drop-down"><a href=""><i class="icofont-team" style="color: #000"></i>&nbsp;Our Team</a>
@@ -96,9 +97,9 @@
 
           </li>
           <!-- <li><a href="products.php"><strong>Products</strong></a></li> -->
-          <li class="drop-down"><a href="products.php"><strong>Products</strong></a>
+          <li class="drop-down"><a href=""><strong>Products</strong></a>
             <ul>
-              <li><a href="#"><i class="icofont-auto-mobile" style="color: #000"></i>&nbsp;Automobile</a></li> <hr>
+              <li><a href="automobile.php"><i class="icofont-auto-mobile" style="color: #000"></i>&nbsp;Automobile</a></li> <hr>
               <!-- <li class="drop-down"><a href="#">Drop Down 2</a>
                 <ul>
                   <li><a href="#">Deep Drop Down 1</a></li>
@@ -108,13 +109,13 @@
                   <li><a href="#">Deep Drop Down 5</a></li>
                 </ul>
               </li> -->
-              <li><a href="#"><i class="icofont-home" style="color: #000"></i>&nbsp;Property</a></li><hr>
-              <li><a href="#"><i class="icofont-first-aid" style="color: #000"></i>&nbsp;General Accident</a></li><hr>
-              <li><a href="#"><i class="icofont-umbrella" style="color: #000"></i>&nbsp;Liability Group</a></li><hr>
-              <li><a href="#"><i class="icofont-shield" style="color: #000"></i>&nbsp;Compulsory Insurance</a></li><hr>
-              <li><a href="#"><i class="icofont-ship-wheel" style="color: #000"></i>&nbsp;Marine & Aviation</a></li><hr>
-              <li><a href="#"><i class="icofont-magnet" style="color: #000"></i>&nbsp;Engineering</a></li><hr>
-              <li><a href="#"><i class="icofont-water-drop" style="color: #000"></i>&nbsp;Oil & Gas</a></li><hr>
+              <li><a href="property.php"><i class="icofont-home" style="color: #000"></i>&nbsp;Property</a></li><hr>
+              <li><a href="gen_accident.php"><i class="icofont-first-aid" style="color: #000"></i>&nbsp;General Accident</a></li><hr>
+              <li><a href="liability_group.php"><i class="icofont-umbrella" style="color: #000"></i>&nbsp;Liability Group</a></li><hr>
+              <li><a href="compulsory.php"><i class="icofont-shield" style="color: #000"></i>&nbsp;Compulsory Insurance</a></li><hr>
+              <li><a href="mar_aviation.php"><i class="icofont-ship-wheel" style="color: #000"></i>&nbsp;Marine & Aviation</a></li><hr>
+              <li><a href="engineering.php"><i class="icofont-magnet" style="color: #000"></i>&nbsp;Engineering</a></li><hr>
+              <li><a href="oil_gas.php"><i class="icofont-water-drop" style="color: #000"></i>&nbsp;Oil & Gas</a></li><hr>
               <li><a href="products.php"><i class="icofont-bag-alt" style="color: #000"></i>&nbsp;Other Products</a></li>
             </ul>
 
