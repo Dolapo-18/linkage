@@ -257,6 +257,16 @@
   cursor: pointer;
 }
 
+.sliding {
+	font-family: "Roboto", sans-serif;
+	font-size: 14px;
+	/*border: 1px solid #d9d9d9;*/
+	border-radius: 1px;
+	padding-left: 160px; 
+	padding-top: 5px;
+	background: #fff;
+}
+
 .cta {
   background: #f3f1f0;
   padding: 30px 0;
@@ -395,6 +405,8 @@
     position: relative;
     background-color: #000;
     max-width: 100%;
+    border-bottom: 5px solid #d2ae6d;
+    border-top: 5px solid #d2ae6d;
 }
 
 .bkg {
@@ -927,6 +939,7 @@
 	max-width: 260px !important;
 	margin-bottom: 25px;
 	margin-top: 15px;
+	margin-right: 22px;
 
 }
 
@@ -1052,7 +1065,7 @@
   transition: 0.2s;
   margin: 20px;
   border-radius: 0px;
-  border: 2px solid #000;
+  border: 1px solid #000;
   color: #000;
   background: #d2ae6d;
  
@@ -1062,11 +1075,11 @@
 .side .cta-btn:hover {
   background: transparent;
   
-  border: 2px solid #d2ae6d;
+  border: 1px solid #d2ae6d;
   color: #000;
 }
 
-.side .cta-btn {
+/*.side .cta-btn {
   position: relative;
   animation-name: shake;
   animation-duration: 3s;
@@ -1077,13 +1090,128 @@
 
 .side .cta-btn:hover {
   animation-name: shakeAnim;
+}*/
+
+
+
+/**** PROPERTY.PHP PAGE *******/
+
+.property h4 {
+	text-align: center; 
+	text-decoration: underline;
+	margin-bottom: 20px;
 }
 
-.sliding {
+.property .narration p {
+	text-align: justify;
 	font-family: "Roboto", sans-serif;
 	font-size: 14px;
-	/*border: 1px solid #d9d9d9;*/
-	/*border-radius: 5px;*/
-	padding-left: 160px; 
-	padding-top: 5px;
+	color: #000;
 }
+
+.property .narration .benefits {
+	font-family: "Roboto", sans-serif;
+	font-size: 14px;
+	color: #000;
+}
+
+.property .box {
+	height: 190px;
+	background-color: #fff;
+	box-shadow: 0px 0 15px rgba(0, 0, 0, 0.12);
+	
+}
+
+.property .box p {
+	padding: 10px;
+	color: #000;
+	text-align: center;
+	font-family: "Roboto", sans-serif;
+	font-size: 17px;
+}
+
+.property .box a {
+}
+
+.side .benefits {
+	padding-top: 30px;
+	text-align: justify;
+	font-family: "Roboto", sans-serif;
+	font-size: 14px;
+	color: #000;
+}
+
+.side .image {
+  position: relative;
+  animation-name: shake;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in;
+  cursor: pointer;
+}
+
+.side .image:hover {
+  animation-name: shakeAnim;
+}
+
+
+
+
+/**** GEN_AACIDENT.PHP PAGE *******/
+.general h4 {
+	text-align: center; 
+	text-decoration: underline;
+	margin-bottom: 20px;
+}
+
+.general .narration p {
+	text-align: justify;
+	font-family: "Roboto", sans-serif;
+	font-size: 14px;
+	color: #000;
+}
+
+.general .narration .benefits {
+	font-family: "Roboto", sans-serif;
+	font-size: 14px;
+	color: #000;
+}
+
+.general .box {
+	height: 190px;
+	background-color: #fff;
+	box-shadow: 0px 0 15px rgba(0, 0, 0, 0.12);
+	
+}
+
+.general .box p {
+	padding: 10px;
+	color: #000;
+	text-align: center;
+	font-family: "Roboto", sans-serif;
+	font-size: 17px;
+}
+
+.general .box a {
+}
+
+.general .benefits {
+	text-align: justify;
+	font-family: "Roboto", sans-serif;
+	font-size: 14px;
+	color: #000;
+}
+
+.general .image {
+  position: relative;
+  animation-name: shake;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in;
+  cursor: pointer;
+}
+
+.general .image:hover {
+  animation-name: shakeAnim;
+}
+

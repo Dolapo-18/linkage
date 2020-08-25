@@ -123,7 +123,7 @@
          <!--  <li><a href="portfolio.html"><i class="icofont-envelope"></i>&nbsp;Portfolio</a></li> -->
          <!--  <li><a href="testimonials.html"><strong>Online Insurance</strong></a></li> -->
          <!--  <li><a href="pricing.html">Pricing</a></li> -->
-          <li><a href="blog.php"><strong>Media</strong></a></li>
+          <li><a href="blog.php"><strong>Information</strong></a></li>
           <!-- <li class="drop-down"><a href=""><strong>Others</strong></a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>

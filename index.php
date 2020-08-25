@@ -96,22 +96,14 @@
 
   <main id="main">
 
-    <div class="container">
-      <div class="row sliding">
-        <div class="col-md-12">
-          <marquee width = "80%"><strong style="color: #000;">Agusto & Co. Rating:</strong> A- (Strong Capacity / Stable Financial Outlook)&nbsp; | &nbsp;&nbsp; <strong style="color: #000;">Investment Portfolio:</strong> ₦24Billion as at 31st of March, 2020.  </marquee>
-        </div>
-      </div>
-    </div>
-
     <!-- ======= Cta Section ======= -->
     <section id="cta" class="cta">
       <div class="container">
 
         <div class="row">
           <div class="col-lg-9 text-center text-lg-left">
-            <h3>We've paid over ₦2 Billion <span style="color: #d2ae6d">Claims</span> this year!</h3>
-            <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h3>We've paid over ₦2.3 Billion <span style="color: #d2ae6d">Claims</span> this year!</h3>
+            <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.</p>
           </div>
           <div class="col-lg-3 cta-btn-container text-center">
             <a class="cta-btn align-middle" href="#">Report a Claim</a>
@@ -120,7 +112,17 @@
         </div>
 
       </div>
+      <br>
+      <div class="container">
+      <div class="row sliding">
+        <div class="col-md-12">
+          <marquee width = "75%"><strong style="color: #000;">Agusto & Co. Rating:</strong> A- (Strong Capacity / Stable Financial Outlook)&nbsp; | &nbsp;&nbsp; <strong style="color: #000;">Investment Portfolio:</strong> ₦24 Billion as at 31<sup>st</sup> of March, 2020.  </marquee>
+        </div>
+      </div>
+    </div>
     </section><!-- End Cta Section -->
+  
+    
 
 
     
@@ -139,7 +141,7 @@
       <div class="container">
 
         <div class="section-title" data-aos="fade-up">
-          <h4>Our <strong>Products</strong></h4>
+          <h4 style="text-decoration: underline;">Our <strong>Products</strong></h4>
           <!-- <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p> -->
         </div>
 
@@ -326,7 +328,7 @@
       <div class="container bkg">
         <h2>Leave the worries of tomorrow to us.</h2>
         <p>With our motor insurance, your tomorrow is looking good.</p>
-       <a class="btn btn-learn" href="#"><strong>LEARN MORE</strong></a>
+       <a class="btn btn-learn" href="automobile.php"><strong>LEARN MORE</strong></a>
       </div>
     </section>
 
