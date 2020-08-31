@@ -21,10 +21,10 @@
     <section id="general" class="general">
       <div class="container">
         <div class="row">
-          <div class="col-md-9">
+          <div class="col-md-9 text-center">
             <!-- <h4>Automobile Insurance</h4> -->
-            <div class="img" data-aos="fade-up">
-              <img src="./assets/img/products/accident_bg.jpg" alt="Automobile" style="height: 385px; max-width: 1500px!important;">
+            <div class="img text-center" data-aos="fade-up">
+              <img src="./assets/img/products/accident_bg.jpg" alt="Automobile" style="height: 385px; width: 820px!important;">
               <hr>
             </div>
             
@@ -33,10 +33,10 @@
 
           <div class="col-md-3 side">
             <div class="box" data-aos="fade-up" data-aos-delay="200">
-              <p><i>Get an Instant Quote Now <br>OR<br> Purchase Online.</i></p>
+              <p><i>Get an Instant Quote Now <br>OR<br> Kindly Contact Us.</i></p>
               
               <div class="cta-btn-container text-center" data-aos="fade-left" data-aos-delay="200">
-                      <a class="cta-btn " href="https://linkageassuranceplc.com/onlinemotor/"><strong>Buy Product Online</strong></a>
+                      <a class="cta-btn " href="https://linkageassuranceplc.com/onlinemotor/"><strong>CONTACT US</strong></a>
                    </div>
             </div>
           </div>
