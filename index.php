@@ -67,7 +67,7 @@
         </div> -->
 
         <!-- Slide 5 -->
-        <div class="carousel-item" style="background-image: url(assets/img/slide2/Think.png); font-family: Roboto; font-size: 13px;">
+        <div class="carousel-item" style="background-image: url(assets/img/slide2/think.png); font-family: Roboto; font-size: 13px;">
           <div class="carousel-container">
             <div class="carousel-content animated fadeInUp">
               <h2>We think ahead of our competitors!</h2>
@@ -190,7 +190,7 @@
               </div>
               <div class="tab-pane" id="tab-3">
                 <figure>
-                  <img src="assets/img/citadel.jpg" alt="" class="img-fluid">
+                  <img src="assets/img/citadel.JPG" alt="" class="img-fluid">
                 </figure>
               </div>
               <div class="tab-pane" id="tab-4">

@@ -33,7 +33,7 @@
                 <p><i>Get an Instant Quote Now <br>OR<br>Kindly Contact Us.</i></p>
                 
                 <div class="cta-btn-container text-center" data-aos="fade-left" data-aos-delay="200">
-                  <a class="cta-btn " href="https://linkageassuranceplc.com/onlinemotor/"><strong>CONTACT US</strong></a>
+                  <a class="cta-btn " href="https://linkageassuranceplc.com/"><strong>CONTACT US</strong></a>
                 </div>
               </div>
           </div>  

@@ -55,7 +55,7 @@
           
           <div class="cta-btn-container text-center" data-aos="fade-left" data-aos-delay="200">
                   <a class="cta-btn " href="https://linkageassuranceplc.com/onlinemotor/"><strong>CONTACT US</strong></a>
-               </div>
+          </div>
         </div>
           
         <div class="image text-center" data-aos="fade-up">
